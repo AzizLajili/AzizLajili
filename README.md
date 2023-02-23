@@ -4,8 +4,8 @@
 
 ## I'm a Developer and Musician !!
 
-- 🌱 I’m currently getting my IT ingeneering degree  
-- 🥅 2022 Goals: AWS certification
+- 🌱 I’m currently getting my IT ingeneering degree in Cloud Computing
+- 🥅 2023 Goals: AWS certification
 - ⚡ Fun fact: I'm not only a musician, i'm a BASSIST 🎸
 
 ### Connect with me:
