@@ -2,10 +2,10 @@
 
 
 
-## I'm a Developer and Musician !!
+## I'm a Developer, Cloud architecte and Musician !!
 
 - 🌱 I’m currently getting my IT ingeneering degree in Cloud Computing
-- 🥅 2023 Goals: AWS certification
+- 🥅 2023 Goals: AWS certification (Done)
 - ⚡ Fun fact: I'm not only a musician, i'm a BASSIST 🎸
 
 ### Connect with me:
